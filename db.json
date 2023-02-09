@@ -1,16 +1,16 @@
 {
-    "posts": [
-      {
-        "name": "ABHISHEK SOLANKI",
-        "employee_id": "1234",
-        "department": "Finance",
-        "experience": "2",
-        "email": "a@123",
-        "mobile": "3456454",
-        "id": 1
-      }
-    ],
-     "users": [
+  "posts": [
+    {
+      "name": "ABHISHEK SOLANKI",
+      "employee_id": "1234",
+      "department": "Finance",
+      "experience": "2",
+      "email": "a@123",
+      "mobile": "3456454",
+      "id": 1
+    }
+  ],
+  "users": [
     {
       "avatar": "https://i.pravatar.cc/300",
       "fullname": "Thakur",
@@ -33,21 +33,18 @@
       "id": 3
     }
   ],
-
-    
-      "mensData": [
-        {
-          "id": 1,
-          "image": "https://content.shop4reebok.com/static/Product-EX4296/reebok_EX4296_1.jpg.plp",
-          "title": "MEN'S REEBOK RUNNING ROADMAP SHOES",
-          "price": "1170"
-        },
-        {
-          "id": 2,
-          "image": "https://content.shop4reebok.com/static/Product-EX3921/reebok_EX3921_1.jpg.plp",
-          "title": "MEN'S REEBOK SWIM ARUBA FLIP SLIPPERS ",
-          "price": 699
-        }
-       
-      ]
-  }
+  "mensData": [
+    {
+      "id": 1,
+      "image": "https://content.shop4reebok.com/static/Product-EX4296/reebok_EX4296_1.jpg.plp",
+      "title": "MEN'S REEBOK RUNNING ROADMAP SHOES",
+      "price": "1170"
+    },
+    {
+      "id": 2,
+      "image": "https://content.shop4reebok.com/static/Product-EX3921/reebok_EX3921_1.jpg.plp",
+      "title": "MEN'S REEBOK SWIM ARUBA FLIP SLIPPERS ",
+      "price": 699
+    }
+  ]
+}
