@@ -26,23 +26,12 @@
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "sfs",
-      "genre": "History",
-      "edition": "2020",
-      "publisher": "353",
-      "cost": "535",
-      "borrowed": false,
-      "id": 1
-    },
-    {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "sfs",
       "genre": "Science",
       "edition": "2020",
       "publisher": "fsdfs",
       "cost": "3533",
       "borrowed": false,
-      "id": 2
+      "id": 3
     },
     {
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -53,7 +42,7 @@
       "publisher": "353",
       "cost": "535",
       "borrowed": false,
-      "id": 1
+      "id": 4
     },
     {
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -64,7 +53,13 @@
       "publisher": "fsdfs",
       "cost": "3533",
       "borrowed": false,
-      "id": 2
+      "id": 5
     }
+  ],
+  "mock5i": [
+   
+  ],
+  "mock5ii": [
+   
   ]
 }
