@@ -1,153 +1,35 @@
 {
-  "posts": [
-    {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "sfs",
-      "genre": "History",
-      "edition": "2020",
-      "publisher": "353",
-      "cost": "535",
-      "borrowed": true,
-      "id": 1
-    },
-    {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "sfs",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "fsdfs",
-      "cost": "3533",
-      "borrowed": false,
-      "id": 2
-    },
-    {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "sfs",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "fsdfs",
-      "cost": "3533",
-      "borrowed": false,
-      "id": 3
-    },
-    {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "sfs",
-      "genre": "History",
-      "edition": "2020",
-      "publisher": "353",
-      "cost": "535",
-      "borrowed": false,
-      "id": 4
-    },
-    {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "sfs",
-      "genre": "Science",
-      "edition": "2020",
-      "publisher": "fsdfs",
-      "cost": "3533",
-      "borrowed": false,
-      "id": 5
-    }
-  ],
     "users": [
       {
-        "avatar": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
         "username": "Abhishek ",
         "email": "abhisheksolanki1020@gmail.com",
         "password": "1234",
         "id": 1
-      },
-      {
-        "avatar": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
-        "username": "AbhishekSolanki",
-        "email": "abhisheksolanki@gmail.com",
-        "password": "1234",
-        "id": 2
       }
     ],
-    "blogs": [
-      {
-        "title": "Thakur",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius tempore pariatur autem provident enim nihil animi. Repellat, animi. ",
-        "category": "Tech",
-        "date": "2023-02-20",
-        "likes": 2,
-        "comments": [
-          {
-            "username": "Jane",
-            "content": "Good One"
-          },
-          {
-            "username": "Bob",
-            "content": "Loved It!"
-          }
-        ],
-        "username": "Aditya",
-        "id": 1
-      },
-      {
-        "title": "Abhishek ",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius tempore pariatur autem provident enim nihil animi. Repellat, animi. ",
-        "category": "Lifestyle",
-        "date": "2023-02-15",
-        "likes": 1,
-        "comments": [
-          {
-            "username": "Jane",
-            "content": "Good One"
-          },
-          {
-            "username": "Bob",
-            "content": "Loved It!"
-          }
-        ],
-        "username": "Abhishek ",
-        "id": 2
-      },
-      {
-        "title": "Aditya",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius tempore pariatur autem provident enim nihil animi. Repellat, animi. ",
-        "category": "Tech",
-        "date": "2023-02-10",
-        "likes": 0,
-        "comments": [
-          {
-            "username": "Jane",
-            "content": "Good One"
-          },
-          {
-            "username": "Bob",
-            "content": "Loved It!"
-          }
-        ],
-        "username": "Abhishek ",
-        "id": 3
-      },
-      {
-        "title": "Bhanu",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius tempore pariatur autem provident enim nihil animi. Repellat, animi. ",
-        "category": "Business",
-        "date": "2023-04-30",
-        "likes": 0,
-        "comments": [
-          {
-            "username": "Jane",
-            "content": "Good One"
-          },
-          {
-            "username": "Bob",
-            "content": "Loved It!"
-          }
-        ],
-        "username": "Abhishek ",
-        "id": 4
-      }
+    "companies": [
+        {
+          "id" : 1,
+          "company_logo": "https://logolook.net/wp-content/uploads/2021/11/HDFC-Bank-Logo.png",
+          "company_name": "HDFC Bank",
+          "company_type": "Bank",
+          "stock_exchange": "NSE",
+          "total_shares": 50000,
+          "cost_per_share": 4210,
+          "price_action": 12
+        },
+        {
+          "id" : 2,
+          "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+          "company_name": "Reliance Industries",
+          "company_type": "Oil",
+          "stock_exchange": "BSE",
+          "total_shares": 20000,
+          "cost_per_share": 2132,
+          "price_action": 4
+        }
+    ],
+    "bought":[
+      
     ]
 }
