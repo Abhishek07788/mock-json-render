@@ -1,21 +1,4 @@
 {
-  "users": [
-    {
-      "username": "Abhishek",
-      "category": "knowledge",
-      "difficulty_level": "easy",
-      "number_of_questions": 10,
-      "id": 1
-    }
-  ],
-  "result": [
-    {
-      "correct_answers": 6,
-      "incorrect_answers": 4,
-      "username": "Abhishek",
-      "total score": 60,
-      "percentage": 60,
-      "id":1
-    }
+  "cart": [
   ]
 }
